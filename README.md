@@ -1,6 +1,6 @@
 
 ---
-## Music
+## Music.
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=58kq2cy2t6kn1peef0dx2axin&show_border=true">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=58kq2cy2t6kn1peef0dx2axin&show_border=true" alt="Data Card for Spotify">
 </a>
@@ -55,7 +55,7 @@
 
 </p>
 
-### Languages 
+### Languages .
 
 <p align="left">
   <a href="#">
@@ -101,7 +101,7 @@
 
 </p>
 
-### Misc
+### Misc.
 <p align="left">
   <a href="#">
     <img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
@@ -159,7 +159,7 @@
 
 </p>
 
-### Services 
+### Services .
 <p align="left">
 
 
@@ -202,7 +202,7 @@
 </p>
 
 
-### Tools  
+### Tools  .
 <p align="left">
   <a href="#">
     <img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
@@ -237,7 +237,7 @@
 
 </p>
 
-## Social 
+## Social .
 <p align="left">
 
 
