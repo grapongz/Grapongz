@@ -7,7 +7,7 @@
 
 ---
 
-## Developer Tech
+## Developer Tech.
 
 ### Frameworks 
 
