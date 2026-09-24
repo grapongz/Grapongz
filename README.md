@@ -1,123 +1,114 @@
 <div align="center">
-  <img src="png/anime1.gif" alt="avatar" height="120" style="border-radius:16px; box-shadow:0 8px 24px rgba(0,0,0,0.25);">
-  <h1 style="margin:10px 0 6px;">
-  Pong Keosithong ✨
-  
-</h1>
-  <a href="https://user-badge.committers.top/laos/grapongz">
-    <img src="https://user-badge.committers.top/laos/grapongz.svg" alt="committers.top badge">
-  </a>
-  <p style="margin:0 0 8px; color:#586069;"><strong>Software Developer • Software Engineer</strong></p>
-  <p style="margin:6px 0 14px;">
-    <img src="https://img.shields.io/badge/Role-Developer-0078D7?style=flat-square" alt="role">&nbsp;
-    <img src="https://img.shields.io/badge/Focus-Web%20%26%20Game-29A745?style=flat-square" alt="focus">&nbsp;
-    <img src="https://img.shields.io/badge/Contact-Email-F7DF1E?style=flat-square" alt="contact">
+  <img src="png/anime1.gif" alt="Pong Keosithong avatar" width="120" height="120" style="border-radius: 20px;" />
+
+  # Pong Keosithong ✨
+
+  <p><strong>Software Developer · Software Engineer</strong></p>
+
+  <p>
+    <a href="https://github.com/grapongz">
+      <img src="https://img.shields.io/badge/GitHub-grapongz-181717?style=for-the-badge&logo=github" alt="GitHub: grapongz" />
+    </a>
+    <a href="https://user-badge.committers.top/laos/grapongz">
+      <img src="https://user-badge.committers.top/laos/grapongz.svg" alt="committers.top badge" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Web%20%26%20Game%20Development-7c3aed?style=flat-square" alt="Focus: Web and Game Development" />
+    <img src="https://img.shields.io/badge/Based%20in-Laos-ef4444?style=flat-square" alt="Based in Laos" />
+    <img src="https://img.shields.io/badge/Always-Learning-0ea5e9?style=flat-square" alt="Always learning" />
   </p>
 </div>
 
-<!-- Refined anime banner (horizontal, uniform sizing) -->
 <p align="center">
-  <img src="png/anime1.gif" alt="anime" height="140" style="margin:0 10px; border-radius:8px;">
-  <img src="png/anime2.gif" alt="anime" height="140" style="margin:0 10px; border-radius:8px;">
-  <img src="png/anime3.gif" alt="anime" height="140" style="margin:0 10px; border-radius:8px;">
-  <img src="png/anime4.gif" alt="anime" height="140" style="margin:0 10px; border-radius:8px;">
+  <em>Building useful digital experiences with clean code, creative ideas, and a little bit of anime energy.</em>
 </p>
 
----
+<p align="center">
+  <img src="png/anime1.gif" alt="Anime artwork 1" height="135" />
+  <img src="png/anime2.gif" alt="Anime artwork 2" height="135" />
+  <img src="png/anime3.gif" alt="Anime artwork 3" height="135" />
+  <img src="png/anime4.gif" alt="Anime artwork 4" height="135" />
+</p>
 
-## Music
+## 🎧 Currently Listening
+
 <p align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=58kq2cy2t6kn1peef0dx2axin&show_border=true">
-    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=58kq2cy2t6kn1peef0dx2axin&show_border=true" alt="Data Card for Spotify">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=58kq2cy2t6kn1peef0dx2axin&show_border=true" alt="Pong's Spotify card" />
   </a>
 </p>
 
----
+## 🧰 Tech Stack
 
-## Developer Tech
+### Frameworks & Runtime
 
-### Frameworks
-
-<p align="left">
-  <a href="#"><img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/frameworks/godot.svg" alt="godot" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px"></a>
+<p>
+  <img src="svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" />
+  <img src="svg/dev/frameworks/godot.svg" alt="Godot" />
+  <img src="svg/dev/frameworks/jquery.svg" alt="jQuery" />
+  <img src="svg/dev/frameworks/laravel.svg" alt="Laravel" />
+  <img src="svg/dev/frameworks/nodejs.svg" alt="Node.js" />
+  <img src="svg/dev/frameworks/react.svg" alt="React" />
+  <img src="svg/dev/frameworks/vue.svg" alt="Vue" />
 </p>
 
 ### Languages
 
-<p align="left">
-  <a href="#"><img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px"></a>
+<p>
+  <img src="svg/dev/languages/csharp.svg" alt="C#" />
+  <img src="svg/dev/languages/csharp_dotnet.svg" alt=".NET" />
+  <img src="svg/dev/languages/css3.svg" alt="CSS3" />
+  <img src="svg/dev/languages/go.svg" alt="Go" />
+  <img src="svg/dev/languages/html.svg" alt="HTML" />
+  <img src="svg/dev/languages/js.svg" alt="JavaScript" />
+  <img src="svg/dev/languages/php.svg" alt="PHP" />
+  <img src="svg/dev/languages/python.svg" alt="Python" />
+  <img src="svg/dev/languages/sass.svg" alt="Sass" />
 </p>
 
-### Misc
+### Cloud, Data & Platforms
 
-<p align="left">
-  <a href="#"><img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/edge.svg" alt="edge" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/firefox.svg" alt="firefox" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/iot.svg" alt="iot" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/tablet.svg" alt="tablet" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/tools.svg" alt="tools" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px"></a>
+<p>
+  <img src="svg/dev/misc/ai.svg" alt="AI" />
+  <img src="svg/dev/misc/cloud.svg" alt="Cloud" />
+  <img src="svg/dev/misc/datascience.svg" alt="Data Science" />
+  <img src="svg/dev/misc/iot.svg" alt="IoT" />
+  <img src="svg/dev/services/digitalocean.svg" alt="DigitalOcean" />
+  <img src="svg/dev/services/dockerhub.svg" alt="Docker Hub" />
+  <img src="svg/dev/services/gcp.svg" alt="Google Cloud Platform" />
+  <img src="svg/dev/services/kubernetes.svg" alt="Kubernetes" />
+  <img src="svg/dev/services/npm.svg" alt="npm" />
+  <img src="svg/dev/services/nuget.svg" alt="NuGet" />
 </p>
-
-### Services
-
-<p align="left">
-  <a href="#"><img src="svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/services/nuget.svg" alt="nuget" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px"></a>
-</p>
-
 
 ### Tools
 
-<p align="left">
-  <a href="#"><img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px"></a>
+<p>
+  <img src="svg/dev/tools/android_studio.svg" alt="Android Studio" />
+  <img src="svg/dev/tools/docker.svg" alt="Docker" />
+  <img src="svg/dev/tools/eclipse.svg" alt="Eclipse" />
+  <img src="svg/dev/tools/powershell.svg" alt="PowerShell" />
+  <img src="svg/dev/tools/visualstudio.svg" alt="Visual Studio" />
+  <img src="svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" />
 </p>
 
-## Social
+## 🌐 Connect
 
-<p align="left">
-  <a href="#"><img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/social/soundcloud.svg" alt="soundcloud" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/social/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px"></a>
-  <a href="#"><img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px"></a>
+<p align="center">
+  <a href="https://github.com/grapongz">
+    <img src="svg/social/github.svg" alt="GitHub" />
+  </a>
+  <img src="svg/social/gmail.svg" alt="Gmail" />
+  <img src="svg/social/instagram.svg" alt="Instagram" />
+  <img src="svg/social/linkedin.svg" alt="LinkedIn" />
+  <img src="svg/social/soundcloud.svg" alt="SoundCloud" />
+  <img src="svg/social/stackoverflow.svg" alt="Stack Overflow" />
+  <img src="svg/social/tiktok.svg" alt="TikTok" />
+  <img src="svg/social/twitter.svg" alt="Twitter" />
 </p>
 
---- 
+<p align="center">
+  <sub>Thanks for stopping by — feel free to explore my projects! 🚀</sub>
+</p>
