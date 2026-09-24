@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="png/anime1.gif" alt="Pong Keosithong avatar" width="120" height="120" style="border-radius: 20px;" />
+  <img src="png/anime1.gif" alt="Pong Keosithong avatar" width="120" height="120" />
 
   # Pong Keosithong ✨
 
@@ -42,71 +42,71 @@
 
 ## 🧰 Tech Stack
 
+> The technology badges below use the repository's local SVG assets. They are displayed at a consistent height so the layout stays readable and responsive on GitHub.
+
 ### Frameworks & Runtime
 
 <p>
-  <img src="svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" />
-  <img src="svg/dev/frameworks/godot.svg" alt="Godot" />
-  <img src="svg/dev/frameworks/jquery.svg" alt="jQuery" />
-  <img src="svg/dev/frameworks/laravel.svg" alt="Laravel" />
-  <img src="svg/dev/frameworks/nodejs.svg" alt="Node.js" />
-  <img src="svg/dev/frameworks/react.svg" alt="React" />
-  <img src="svg/dev/frameworks/vue.svg" alt="Vue" />
+  <img src="svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" height="32" />
+  <img src="svg/dev/frameworks/godot.svg" alt="Godot" height="32" />
+  <img src="svg/dev/frameworks/jquery.svg" alt="jQuery" height="32" />
+  <img src="svg/dev/frameworks/laravel.svg" alt="Laravel" height="32" />
+  <img src="svg/dev/frameworks/nodejs.svg" alt="Node.js" height="32" />
+  <img src="svg/dev/frameworks/react.svg" alt="React" height="32" />
+  <img src="svg/dev/frameworks/vue.svg" alt="Vue" height="32" />
 </p>
 
 ### Languages
 
 <p>
-  <img src="svg/dev/languages/csharp.svg" alt="C#" />
-  <img src="svg/dev/languages/csharp_dotnet.svg" alt=".NET" />
-  <img src="svg/dev/languages/css3.svg" alt="CSS3" />
-  <img src="svg/dev/languages/go.svg" alt="Go" />
-  <img src="svg/dev/languages/html.svg" alt="HTML" />
-  <img src="svg/dev/languages/js.svg" alt="JavaScript" />
-  <img src="svg/dev/languages/php.svg" alt="PHP" />
-  <img src="svg/dev/languages/python.svg" alt="Python" />
-  <img src="svg/dev/languages/sass.svg" alt="Sass" />
+  <img src="svg/dev/languages/csharp.svg" alt="C#" height="32" />
+  <img src="svg/dev/languages/csharp_dotnet.svg" alt=".NET" height="32" />
+  <img src="svg/dev/languages/css3.svg" alt="CSS3" height="32" />
+  <img src="svg/dev/languages/go.svg" alt="Go" height="32" />
+  <img src="svg/dev/languages/html.svg" alt="HTML" height="32" />
+  <img src="svg/dev/languages/js.svg" alt="JavaScript" height="32" />
+  <img src="svg/dev/languages/php.svg" alt="PHP" height="32" />
+  <img src="svg/dev/languages/python.svg" alt="Python" height="32" />
+  <img src="svg/dev/languages/sass.svg" alt="Sass" height="32" />
 </p>
 
 ### Cloud, Data & Platforms
 
 <p>
-  <img src="svg/dev/misc/ai.svg" alt="AI" />
-  <img src="svg/dev/misc/cloud.svg" alt="Cloud" />
-  <img src="svg/dev/misc/datascience.svg" alt="Data Science" />
-  <img src="svg/dev/misc/iot.svg" alt="IoT" />
-  <img src="svg/dev/services/digitalocean.svg" alt="DigitalOcean" />
-  <img src="svg/dev/services/dockerhub.svg" alt="Docker Hub" />
-  <img src="svg/dev/services/gcp.svg" alt="Google Cloud Platform" />
-  <img src="svg/dev/services/kubernetes.svg" alt="Kubernetes" />
-  <img src="svg/dev/services/npm.svg" alt="npm" />
-  <img src="svg/dev/services/nuget.svg" alt="NuGet" />
+  <img src="svg/dev/misc/ai.svg" alt="AI" height="32" />
+  <img src="svg/dev/misc/cloud.svg" alt="Cloud" height="32" />
+  <img src="svg/dev/misc/datascience.svg" alt="Data Science" height="32" />
+  <img src="svg/dev/misc/iot.svg" alt="IoT" height="32" />
+  <img src="svg/dev/services/digitalocean.svg" alt="DigitalOcean" height="32" />
+  <img src="svg/dev/services/dockerhub.svg" alt="Docker Hub" height="32" />
+  <img src="svg/dev/services/gcp.svg" alt="Google Cloud Platform" height="32" />
+  <img src="svg/dev/services/kubernetes.svg" alt="Kubernetes" height="32" />
+  <img src="svg/dev/services/npm.svg" alt="npm" height="32" />
+  <img src="svg/dev/services/nuget.svg" alt="NuGet" height="32" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="svg/dev/tools/android_studio.svg" alt="Android Studio" />
-  <img src="svg/dev/tools/docker.svg" alt="Docker" />
-  <img src="svg/dev/tools/eclipse.svg" alt="Eclipse" />
-  <img src="svg/dev/tools/powershell.svg" alt="PowerShell" />
-  <img src="svg/dev/tools/visualstudio.svg" alt="Visual Studio" />
-  <img src="svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" />
+  <img src="svg/dev/tools/android_studio.svg" alt="Android Studio" height="32" />
+  <img src="svg/dev/tools/docker.svg" alt="Docker" height="32" />
+  <img src="svg/dev/tools/eclipse.svg" alt="Eclipse" height="32" />
+  <img src="svg/dev/tools/powershell.svg" alt="PowerShell" height="32" />
+  <img src="svg/dev/tools/visualstudio.svg" alt="Visual Studio" height="32" />
+  <img src="svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" height="32" />
 </p>
 
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/grapongz">
-    <img src="svg/social/github.svg" alt="GitHub" />
-  </a>
-  <img src="svg/social/gmail.svg" alt="Gmail" />
-  <img src="svg/social/instagram.svg" alt="Instagram" />
-  <img src="svg/social/linkedin.svg" alt="LinkedIn" />
-  <img src="svg/social/soundcloud.svg" alt="SoundCloud" />
-  <img src="svg/social/stackoverflow.svg" alt="Stack Overflow" />
-  <img src="svg/social/tiktok.svg" alt="TikTok" />
-  <img src="svg/social/twitter.svg" alt="Twitter" />
+  <a href="https://github.com/grapongz" aria-label="GitHub: grapongz">GitHub</a>
+  · <a href="mailto:grapongz@gmail.com" aria-label="Email Pong">Email</a>
+  · <a href="https://www.instagram.com/grapongz/" aria-label="Instagram">Instagram</a>
+  · <a href="https://www.linkedin.com/in/grapongz/" aria-label="LinkedIn">LinkedIn</a>
+  · <a href="https://soundcloud.com/grapongz" aria-label="SoundCloud">SoundCloud</a>
+  · <a href="https://stackoverflow.com/users/" aria-label="Stack Overflow">Stack Overflow</a>
+  · <a href="https://www.tiktok.com/@grapongz" aria-label="TikTok">TikTok</a>
+  · <a href="https://twitter.com/grapongz" aria-label="Twitter">Twitter</a>
 </p>
 
 <p align="center">
