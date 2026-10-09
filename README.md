@@ -65,8 +65,16 @@
   </a>
   <br><br>
   <p><strong>Enterprise & Business Systems</strong></p>
-  <p style="font-size: 14px; color: #777;">SAP B1 · Oracle NetSuite</p>
-  <br>
+  <a href="https://www.sap.com/laos/products/technology-platform.html">
+    <img src="https://img.shields.io/badge/SAP%20B1-0D2D5C?style=for-the-badge&logo=sap&logoColor=white" alt="SAP B1" />
+  </a>
+  <a href="https://www.oracle.com/">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  </a>
+  <a href="https://www.netsuite.com/portal/home.shtml">
+    <img src="https://img.shields.io/badge/NetSuite-1B1B1B?style=for-the-badge" alt="NetSuite" />
+  </a>
+  <br><br>
   <p><strong>Tools</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,cursor,visualstudio,androidstudio,eclipse,powershell" alt="Tools" />
