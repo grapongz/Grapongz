@@ -41,7 +41,7 @@
 <div align="center">
   <p><strong>Languages</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,python,php,cs,dotnet,go" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,python,php,java,cs,dotnet,go" alt="Languages" />
   </a>
   <br><br>
   <p><strong>Frameworks & Libraries</strong></p>
