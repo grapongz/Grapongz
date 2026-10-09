@@ -61,7 +61,7 @@
   <br><br>
   <p><strong>Databases</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,oracle,mongodb,mysql" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" alt="Databases" />
   </a>
   <br><br>
   <p><strong>Enterprise & Business Systems</strong></p>
@@ -69,7 +69,7 @@
   <br>
   <p><strong>Tools</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,powershell" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,cursor,visualstudio,androidstudio,eclipse,powershell" alt="Tools" />
   </a>
 </div>
 
