@@ -56,9 +56,17 @@
   <br><br>
   <p><strong>Cloud & Services</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,npm,github" alt="Cloud & Services" />
+    <img src="https://skillicons.dev/icons?i=gcp,firebase,docker,kubernetes,npm,github" alt="Cloud & Services" />
   </a>
   <br><br>
+  <p><strong>Databases</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,oracle,mongodb,mysql" alt="Databases" />
+  </a>
+  <br><br>
+  <p><strong>Enterprise & Business Systems</strong></p>
+  <p style="font-size: 14px; color: #777;">SAP B1 · Oracle NetSuite</p>
+  <br>
   <p><strong>Tools</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,powershell" alt="Tools" />
